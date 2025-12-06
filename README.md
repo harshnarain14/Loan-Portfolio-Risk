@@ -8,13 +8,15 @@ Python (Pandas, numpy, SQLite) · Excel (Pivot Tables & BI) · CSV Dataset
 
 Project Structure
 
-/Python_ETL.ipynb — ETL and data preparation script
+/Data Folder- Contains original dataset and cleaned dataset
 
-/Cleaned_Data.csv — Processed dataset
+/Project Documentation.docx — Analytical findings & recommendations
 
 /Loan Dashboard.xlsx — Excel BI dashboard
 
-/Project Documentation.docx — Analytical findings & recommendations
+/Excel-Project.ipynb -- Python ETL File
+
+
 
 How to Run
 Run ETL file in Python Jupyter Notebook, then open Excel dashboard for analysis.
