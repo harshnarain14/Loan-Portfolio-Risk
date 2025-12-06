@@ -18,5 +18,6 @@ Project Structure
 
 
 
-How to Run
+How to Run:
+
 Run ETL file in Python Jupyter Notebook, then open Excel dashboard for analysis.
