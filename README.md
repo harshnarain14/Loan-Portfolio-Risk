@@ -16,7 +16,9 @@ Project Structure
 
 /Excel-Project.ipynb -- Python ETL File
 
-/Dashboard Preview: 
+Here is the final dashboard created for this project:
+
+![Dashboard Preview](DashboardPreview.png)
 
 
 
